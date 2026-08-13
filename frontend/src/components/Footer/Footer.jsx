@@ -41,7 +41,7 @@ const Footer = () => {
               <li>Project Synopsis</li>
               <li>CSE Division A</li>
               <li>Batch 2022 - 2026</li>
-              <li>Guide: Prof. Sharma</li>
+              <li>Guide: vignesh </li>
             </ul>
           </div>
         </div>
